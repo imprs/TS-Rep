@@ -1,0 +1,6 @@
+*.npz
+*.pyc
+*.pth
+*.npy
+output/
+models/
